@@ -1,2 +1,2 @@
 # Java_Program
-Java projects and dsa codes practs
+Java projects and dsa codes practs for placement.
